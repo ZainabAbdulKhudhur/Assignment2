@@ -1,0 +1,44 @@
+body{
+    background-color: #ffffff;
+    font-family:Arial, Helvetica, sans-serif;
+}
+h1{
+    text-align:left ;
+    font-family:sans-serif ;
+    font-weight:bolder;
+    color: #4a0423e2;
+}
+table{
+    border-collapse: collapse;
+    background-color: #63063b;
+    width: 1500px;
+    height: 100px;
+}
+tr:hover{
+    background-color: #ff028d;
+    font-weight:bolder;
+}
+th{
+    color: #f9f7f7;
+    background-color: #63063b;
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #b926688b;
+}
+td{
+    color: #752b72;
+    padding:10px;
+    text-align: left;
+    background-color: #dcb5cb;
+}
+
+.mybutton:hover{
+    color: rgb(247, 244, 244);
+    background-color: #62263e;
+    transition-duration: 0.5s;
+}
+.mytable{
+    padding-top: 36px;
+    padding-bottom:36px;
+    color: #630628;
+}
